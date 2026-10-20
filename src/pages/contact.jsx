@@ -25,7 +25,7 @@ export const ContactView = ()=>{
                     <FaLinkedin className="text-blue-400" size={24}/>
                     <span className="text-lg font-medium">LinkedIn</span>
                    </a>
-                   <a href="https://instagram.com/yourhandle"
+                   <a href="https://instagram.com/_kaundal_001"
                    target="_blank" 
                     rel="noreferrer"
                     className="flex items-center gap-3 px-8 py-4 bg-gray-900 
