@@ -23,7 +23,7 @@ export const Projects = ()=>{
                             transition-colors"> Acoustic Guitar Shop</h3>
                             <div className="flex items-center gap-4">
                                 <a href="https://github.com/AMAN70180/Guitar-Shop" className="hover:text-white"><FaGithub size={20}/></a>
-                            <a href="https://guitar-shop-demo-fronted.netlify.app/" className="hover:text-white"><ExternalLink size={20}/></a>
+                            <a href="https://guitar-shop-demo-frontend.netlify.app/" className="hover:text-white"><ExternalLink size={20}/></a>
                             </div>
                             
                         </div>
